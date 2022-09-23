@@ -1,0 +1,2 @@
+# total-calories-intake-calculator
+As age increases it is needed to keep check on the calories, sugar,proteins, etc intake. It helps to maintain weight and lead a healthy lifestyle. It also helps in keep control on the diseases .This program calculates the total calories consumed through the food and how much more should be taken or discarded. It is curated for typical Indian thali which indians eat on daily basis. It contains only balaced diet food items which should be consumed by 65+ yrs olds.
